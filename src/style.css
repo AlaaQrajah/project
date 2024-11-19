@@ -1,0 +1,79 @@
+.page_image {
+  height: 286px;
+  width: 368px;
+}
+.Pellentesque_suscipit {
+  margin-top: 202px;
+  font-size: 4rem;
+  text-align: center;
+}
+.Readmore{
+  margin-left: 50px;
+  margin-top: 22px;
+  text-align: center;
+}
+.border_box {
+  text-align: center;
+  border-radius: 2rem;
+  background-color: #f4eeee;
+  box-shadow: 233rem;
+}
+.border_box_img  {
+  text-align: center;
+  margin-left: 100px;
+}
+.fonts {
+  font-family: "Inter", sans-serif;
+}
+
+.section {
+  margin-left: 45px;
+  margin-top: -40px;
+  padding: 4px 10px 10px 60px;
+  width: 20rem;
+  height: 8rem;
+  background-color: #ABBED166;
+  box-shadow: 230px;
+  border-radius: 20px;
+  position: absolute;
+  text-align: center;
+}
+.footer_end {
+  color: #f5f7fa;
+  background-color: #263238;
+  justify-content: space-evenly;
+}
+.list_input {
+  background-color: gray;
+  height: 2rem;
+  border-radius: 5px;
+}
+.opacity{
+opacity:0.5;
+}
+ 
+.icon {
+  height: 32px;
+  width: 32px;
+}
+nav {
+  margin-top: 30px;
+}
+.div_text  {
+  margin-left: 230px;
+  margin-top: 50px;
+}
+.Dot_images  {
+  padding: 0px 1px 1px 370px;
+  margin-left: 20rem;
+  margin-top: -20px;
+}
+
+.justify-items-end1 {
+  display: flex;
+  align-items: center;
+}
+.span {
+  font-size: 20px;
+  opacity: 0.5;
+}
